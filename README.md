@@ -31,7 +31,7 @@ The project utilizes several core CV concepts covered in the course:
 ## 🚀 Visual Results
 | Input (Warped/Noisy) | Processed (Thresholded) | Final Scanned Output |
 | :---: | :---: | :---: |
-| ![Input](https://via.placeholder.com/200x250?text=Original+Image) | ![Threshold](https://via.placeholder.com/200x250?text=Edge+Detection) | ![Output](https://via.placeholder.com/200x250?text=Final+Scan) |
+| ![Input](input_image.jpeg) | ![Threshold](pre_process_image.png) | ![Output](output_image.png) |
 
 > **Note:** Replace the placeholder links above with actual screenshots from your `output` folder or notebook to showcase your results!
 
