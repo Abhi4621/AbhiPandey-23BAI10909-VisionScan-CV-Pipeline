@@ -1,4 +1,4 @@
-# 🚀 SmartScan AI: Intelligent Document Analysis & Verification System
+# SmartScan AI: Intelligent Document Analysis & Verification System
 
    
 **Name:** Abhi Pandey (23BAI10909)   
