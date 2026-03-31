@@ -175,6 +175,7 @@ Features:
 ```bash
 !apt-get install tesseract-ocr
 !pip install pytesseract imutils tensorflow
+
 🔹 2. Usage Modes
 📂 Static Mode
 Upload image manually
@@ -184,10 +185,12 @@ Get processed output + OCR text
 Enable webcam
 Capture real-time frames
 Automatic processing and detection
+
 🧪 Simulation Mode
 If contour not detected:
 Uses fallback detection logic
 Ensures smooth demo during evaluation
+
 🧠 Advanced Features (Extra Marks 💯)
 Hybrid CV + Deep Learning pipeline
 Dual verification (OCR + CNN)
@@ -195,16 +198,19 @@ Real-time webcam processing
 Adaptive thresholding for uneven lighting
 Automatic document classification
 Quality-based validation system
+
 📊 Performance & Evaluation
 Accuracy: ~98% (high contrast documents)
 Processing Speed: Real-time capable
 Robustness: Handles noise, blur, and lighting variations
+
 📈 Applications
 Smart document scanners
 Invoice & receipt processing
 Digital record management
 Automated data entry systems
 AI-based office automation
+
 🎯 Final Project Summary
 Classification:
 A4 Page / Receipt / ID Card (Aspect Ratio Based)
