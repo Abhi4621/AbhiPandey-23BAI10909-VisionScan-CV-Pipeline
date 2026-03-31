@@ -78,18 +78,18 @@ SmartScan AI is inspired by intelligent systems such as **Face Recognition Atten
 ---
 
 ### 🧾 Stage 2: Extraction & Deep Learning Verification
-| 4. Binarization (OCR Ready) | 5. OCR Text Extraction | 6. CNN Verification |
-| :---: | :---: | :---: |
-| ![Binary](https://via.placeholder.com/200x150?text=Otsu+Threshold) | ![OCR](https://via.placeholder.com/200x150?text=Text+Detected) | ![CNN](https://via.placeholder.com/200x150?text=Digit+Verified) |
+| 4. Binarization (OCR Ready) | 5. OCR Text Extraction 
+| :---: | :---: |
+| ![Binary](ocr_detect.png) | ![OCR](ocr_verification.png) 
 
 👉 Ensures both readability and correctness of extracted data.
 
 ---
 
 ### 🎥 Stage 3: Real-Time Extension (Live Processing)
-| 7. Capture View | 8. HUD Analysis | 9. Final Extractions |
-| :---: | :---: | :---: |
-| ![Capture](https://via.placeholder.com/200x150?text=Webcam+Input) | ![HUD](https://via.placeholder.com/200x150?text=Live+Overlay) | ![Data](https://via.placeholder.com/200x150?text=Total+100) |
+| 7. Capture View | 9. Final Extractions |
+| :---: | :---: | 
+| ![Capture](ocr_input.jpg) |  ![Data](live_detection_output.png) |
 
 👉 Enables live scanning similar to modern mobile scanning apps.
 
@@ -220,8 +220,8 @@ Verification System:
 Dual-layer validation (Tesseract OCR + CNN)
 Output Format:
 Structured Text / JSON-ready data
-🧠 Conclusion
 
+🧠 Conclusion
 SmartScan AI demonstrates how classical computer vision techniques and modern deep learning models can be combined into a powerful, real-world system.
 
 The project highlights:
