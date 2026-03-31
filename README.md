@@ -173,12 +173,14 @@ Features:
 
 ---
 
+
 ## ⚙️ Setup & Execution
 
 ### 🔹 1. Requirements
 ```bash
 !apt-get install tesseract-ocr
 !pip install pytesseract imutils tensorflow
+
 
 🔹 2. Usage Modes
 📂 Static Mode
@@ -190,10 +192,12 @@ Enable webcam
 Capture real-time frames
 Automatic processing and detection
 
+
 🧪 Simulation Mode
 If contour not detected:
 Uses fallback detection logic
 Ensures smooth demo during evaluation
+
 
 🧠 Advanced Features (Extra Marks 💯)
 Hybrid CV + Deep Learning pipeline
@@ -203,10 +207,12 @@ Adaptive thresholding for uneven lighting
 Automatic document classification
 Quality-based validation system
 
+
 📊 Performance & Evaluation
 Accuracy: ~98% (high contrast documents)
 Processing Speed: Real-time capable
 Robustness: Handles noise, blur, and lighting variations
+
 
 📈 Applications
 Smart document scanners
@@ -214,6 +220,7 @@ Invoice & receipt processing
 Digital record management
 Automated data entry systems
 AI-based office automation
+
 
 🎯 Final Project Summary
 Classification:
@@ -225,11 +232,12 @@ Dual-layer validation (Tesseract OCR + CNN)
 Output Format:
 Structured Text / JSON-ready data
 
+
 🧠 Conclusion
 SmartScan AI demonstrates how classical computer vision techniques and modern deep learning models can be combined into a powerful, real-world system.
 
-The project highlights:
 
+The project highlights:
 End-to-end pipeline design
 Real-world problem solving
 Intelligent automation using AI
